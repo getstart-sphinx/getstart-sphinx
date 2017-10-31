@@ -4,7 +4,7 @@ Sphinxをはじめよう（第2版） 情報ページ
 
 ## 正誤表
 
-(正誤表)[https://github.com/getstart-sphinx/getstart-sphinx/wiki/Sphinx%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E3%81%86-%E7%AC%AC2%E7%89%88-%E6%AD%A3%E8%AA%A4%E8%A1%A8] にまとめています。
+[正誤表](https://github.com/getstart-sphinx/getstart-sphinx/wiki/Sphinx%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E3%81%86-%E7%AC%AC2%E7%89%88-%E6%AD%A3%E8%AA%A4%E8%A1%A8) にまとめています。
 もし不備を見つけた場合は、japan@oreilly.co.jpまでご連絡ください。
 
 ## サンプルコード
