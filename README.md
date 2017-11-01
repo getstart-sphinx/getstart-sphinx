@@ -1,6 +1,4 @@
-# getstart-sphinx
-
-Sphinxをはじめよう（第2版） 情報ページ
+# Sphinxをはじめよう（第2版） 情報ページ
 
 ## 正誤表
 
